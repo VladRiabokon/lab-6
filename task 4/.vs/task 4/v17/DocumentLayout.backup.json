@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\lab-6\\task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB60B1D-1E40-40C9-AE53-C0C57D0E7DFA}|task 4\\task 4.csproj|d:\\github\\lab-6\\task 4\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB60B1D-1E40-40C9-AE53-C0C57D0E7DFA}|task 4\\task 4.csproj|solutionrelative:task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\lab-6\\task 4\\task 4\\Program.cs",
+              "RelativeDocumentMoniker": "task 4\\Program.cs",
+              "ToolTip": "D:\\github\\lab-6\\task 4\\task 4\\Program.cs",
+              "RelativeToolTip": "task 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:40:34.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

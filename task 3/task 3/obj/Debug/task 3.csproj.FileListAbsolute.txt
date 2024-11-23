@@ -1,0 +1,7 @@
+D:\github\lab-6\task 3\task 3\bin\Debug\task 3.exe.config
+D:\github\lab-6\task 3\task 3\bin\Debug\task 3.exe
+D:\github\lab-6\task 3\task 3\bin\Debug\task 3.pdb
+D:\github\lab-6\task 3\task 3\obj\Debug\task 3.csproj.AssemblyReference.cache
+D:\github\lab-6\task 3\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
+D:\github\lab-6\task 3\task 3\obj\Debug\task 3.exe
+D:\github\lab-6\task 3\task 3\obj\Debug\task 3.pdb

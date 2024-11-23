@@ -1,0 +1,7 @@
+D:\github\lab-6\task 4\task 4\bin\Debug\task 4.exe.config
+D:\github\lab-6\task 4\task 4\bin\Debug\task 4.exe
+D:\github\lab-6\task 4\task 4\bin\Debug\task 4.pdb
+D:\github\lab-6\task 4\task 4\obj\Debug\task 4.csproj.AssemblyReference.cache
+D:\github\lab-6\task 4\task 4\obj\Debug\task 4.csproj.CoreCompileInputs.cache
+D:\github\lab-6\task 4\task 4\obj\Debug\task 4.exe
+D:\github\lab-6\task 4\task 4\obj\Debug\task 4.pdb
